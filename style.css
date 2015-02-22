@@ -1,0 +1,23 @@
+*{
+	font-family: helvetica;
+}
+
+#container{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.clear{
+	clear: both;
+}
+
+header{
+	text-align: center;
+}
+
+.profile-photo{
+	height: 80px;
+	float: left;
+	margin-bottom: 10px;
+}
+
