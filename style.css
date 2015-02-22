@@ -2,6 +2,9 @@
 	font-family: helvetica;
 }
 
+body{
+}
+
 #container{
 	width: 800px;
 	margin: 0 auto;
@@ -15,9 +18,20 @@ header{
 	text-align: center;
 }
 
+header ul li{
+	display: inline;
+}
+
+header ul li a{
+	text-decoration: none;
+}
+
+
 .profile-photo{
 	height: 80px;
 	float: left;
 	margin-bottom: 10px;
 }
 
+.work ul{
+}
